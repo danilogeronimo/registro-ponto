@@ -19,7 +19,7 @@ import java.time.LocalDateTime;
 @Entity
 public class Movimentacao {
 
-    //quando há chaves primárias compostas, cria se uma classe implementando Serielizable (?) e use se a notação Embeddable para referenciar as  chaves na classe principal "Movimentacao" usando @EmbeddedId
+    //quando há chaves primárias compostas, cria se uma classe implementando Serielizable (?) e use se a notação Embeddable para referenciar as  chaves na classe principal "Movimentacao" usando @EmbeddedId teste
     @AllArgsConstructor
     @NoArgsConstructor
     @EqualsAndHashCode
