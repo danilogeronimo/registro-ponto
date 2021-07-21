@@ -33,5 +33,4 @@ public class BancoHoras {
     private LocalDateTime dataTrabalhada;
     private BigDecimal quantidadeHoras;
     private BigDecimal saldoHoras;
-
 }
